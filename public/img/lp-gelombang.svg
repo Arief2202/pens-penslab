@@ -1,0 +1,15 @@
+<svg width="867" height="752" viewBox="0 0 867 752" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_684_488)">
+<path d="M110 190C15.5 139 19.5 1.5 21.5 -8V-43H900.5V750.5C810.833 746.5 618.4 710.9 566 600.5C500.5 462.5 442 441.5 368.5 429.5C295 417.5 233 373 217.5 285C205.1 214.6 151 214.5 110 190Z" fill="#2A99C1" fill-opacity="0.2"/>
+<path d="M90.2022 190C-4.29781 139 -0.297809 1.5 1.70219 -8V-43H880.702V750.5C791.035 746.5 598.602 710.9 546.202 600.5C480.702 462.5 422.202 441.5 348.702 429.5C275.202 417.5 213.202 373 197.702 285C185.302 214.6 131.202 214.5 90.2022 190Z" fill="#3D5C8D" fill-opacity="0.3"/>
+<path d="M133.202 190C38.7022 139 42.7022 1.5 44.7022 -8V-43H923.702V750.5C834.035 746.5 641.602 710.9 589.202 600.5C523.702 462.5 465.202 441.5 391.702 429.5C318.202 417.5 256.202 373 240.702 285C228.302 214.6 174.202 214.5 133.202 190Z" fill="#3D5C8D" fill-opacity="0.3"/>
+<path d="M157.202 190C62.7022 139 66.7022 1.5 68.7022 -8V-43H947.702V750.5C858.035 746.5 665.602 710.9 613.202 600.5C547.702 462.5 489.202 441.5 415.702 429.5C342.202 417.5 280.202 373 264.702 285C252.302 214.6 198.202 214.5 157.202 190Z" fill="#3D5C8D" fill-opacity="0.3"/>
+</g>
+<defs>
+<filter id="filter0_f_684_488" x="0" y="-44" width="948.702" height="795.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.5" result="effect1_foregroundBlur_684_488"/>
+</filter>
+</defs>
+</svg>
